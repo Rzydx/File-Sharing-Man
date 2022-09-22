@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardButton
 
 
 def start_button(client):
-    if not FORCE_SUB_CHANNEL1 FORCE_SUB_CHANNEL2 FORCE_SUB_GROUP1 FORCE_SUB_GROUP2:
+    if not FORCE_SUB_CHANNEL1 FORCE_SUB_CHANNEL2:
         buttons = [
             [
                 InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help"),
