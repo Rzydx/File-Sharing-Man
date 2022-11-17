@@ -28,6 +28,14 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
 
+<details>
+<summary><b>🔗 ᴅᴇᴘʟᴏʏ ᴅɪ ʜᴇʀᴏᴋᴜ</b></summary>
+<br>
+
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Rzydx/File-Sharing-Man"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="215""/</a>  
+<a href="https://telegram.dog/XTZ_HerokuBot?start=Unp5ZHgvRmlsZS1TaGFyaW5nLU1hbiBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="215""/</a>  </p>
+
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
